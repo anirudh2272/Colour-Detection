@@ -1,0 +1,23 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Engineer",
+    "company": "ExampleAI",
+    "url": "https://example.com/jobs/ml-engineer",
+    "description": "We are hiring an ML engineer with Python, NLP, LLM systems, vector databases, AWS, and production deployment experience."
+  },
+  "profile": {
+    "name": "Your Name",
+    "target_role": "Machine Learning Engineer",
+    "skills": ["Python", "NLP", "LLM", "AWS", "Docker", "MLOps"],
+    "years_experience": "6+ years",
+    "summary": "Built and deployed ML and GenAI pipelines in production."
+  },
+  "company_domain": "exampleai.com",
+  "email": {
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "you@gmail.com",
+    "password": "app-password",
+    "sender": "you@gmail.com"
+  }
+}
